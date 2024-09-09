@@ -1,6 +1,6 @@
-* Fisika*
-* Komputasi*
- *Awan*
+*Fisika*
+  *Komputasi*
+   Awan*
 
 Today is study day 
 *## Fisika menyenangkan*
