@@ -1,4 +1,4 @@
-#Fisika
+# Fisika
 ## Komputasi
 ###  Awan
-#print " Amanda Berliana Indah Suryani / 220322608247 "
+print ('Amanda Berliana Indah Suryani / 220322608247')
