@@ -1,8 +1,8 @@
 import streamlit as st
 
-x = st.number_input("Masukkan nilai suhu")
-sx = st.selectbox("Satuan awal", ["Celsius (C)", "Fahrenheit (F)", "Kelvin (K)", "Reamur (R)"])
-sy = st.selectbox("Satuan tujuan", ["Celsius (C)", "Fahrenheit (F)", "Kelvin (K)", "Reamur (R)"])
+x = st.number_input("100")
+sx = st.selectbox("Celcius", ["Celsius (C)", "Fahrenheit (F)", "Kelvin (K)", "Reamur (R)"])
+sy = st.selectbox("Fahrenheit", ["Celsius (C)", "Fahrenheit (F)", "Kelvin (K)", "Reamur (R)"])
 
 sx_symbol = sx.split(" ")[-1][1]
 sy_symbol = sy.split(" ")[-1][1]
